@@ -1,16 +1,26 @@
-## Roadmap
-
-### Sprint 0
+## Sprint 0
 
 - [x] Criar projeto
 - [x] Configurar Git
 - [x] Criar documentação
 
-### Sprint 1
+## Sprint 1
 
-- [ ] Modelagem do domínio
-- [ ] Banco de dados
+### Descoberta do Domínio
 
-### Sprint 2
+- [x] Definir objetivo do sistema
+- [x] Identificar atores
+- [x] Modelar domínio
+- [x] Modelar entidades
+- [x] Identificar relacionamentos
+- [x] Definir MVP
 
-- [ ] CRUD de Cursos
+
+Sprint 1 parte 2
+- [] criar casos de uso
+
+### Implementação
+
+- [ ] Criar estrutura dos módulos
+- [ ] Criar entidades
+- [ ] Modelar banco
